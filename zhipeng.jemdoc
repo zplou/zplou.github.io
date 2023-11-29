@@ -1,0 +1,82 @@
+
+= Zhipeng Lou - Home page
+
+~~~
+{}{img_left}{zhipeng.jpg}{alt text}{210px}{280px}{IMGLINKTARGET}
+- Address: \n
+Department of Statistics \n
+University of Pittsburgh, PA 15260 \n
+Pittsburgh, PA 15260 \n
+- Office: WWPH1817 \n
+- Email:  zhl318@pitt.edu \n
+- [ CV] \n
+
+~~~
+
+
+== Employment
+- Assistant Professor, Department of Statistics, University of Pittsburgh, PA, USA, 2023 -- present.\n
+
+- Post-Doctoral Associate, Princeton University, NJ, USA, 2020 -- 2023. \n
+Advisor: Jianqing Fan
+
+== Education
+- Ph.D. in Statistics, University of Chicago, IL, USA, 2015 -- 2020. \n
+Advisor: Wei Biao Wu
+
+== Research Interests
+Statistical learning, ranking inference, high-dimensional statistical testing, robust inference, time series analysis, functional data analysis, survival analysis.
+
+== Publications and Preprints
+
+- [https://arxiv.org/abs/2211.11959 Robust High-Dimensional Tuning Free Multiple Testing] \n
+Jianqing Fan, Zhipeng Lou and Mengxin Yu. \n
+/Annals of Statistics/, Accepted, 2023. 
+
+- [https://jmlr.org/papers/v23/21-0560.html Beyond Sub-Gaussian Noises: Sharp Concentration Analysis for Stochastic Gradient Descent] \n
+Zhipeng Lou, Wanrong Zhu and Wei Biao Wu. 
+/Journal of Machine Learning Research/, 23(46):1−22, 2022. 
+
+- [https://www.tandfonline.com/doi/abs/10.1080/01621459.2023.2169700 Are Principal Component Regression and Sparse Regression Adequate?] \n
+Jianqing Fan, Zhipeng Lou and Mengxin Yu. 
+/Journal of the American Statistical Association/, in press, 2023. 
+
+- [https://academic.oup.com/biomet/article-abstract/110/3/777/6991165 High-Dimensional Analysis of Variance in Multivariate Linear Regression] \n
+Zhipeng Lou, Xianyang Zhang and Wei Biao Wu. \n
+/Biometrika/, 110(3): 777-797, 2023.
+
+- [https://arxiv.org/abs/2211.11957 Ranking Inferences Based on the Top Choices of Multiway Comparisons] \n
+Jianqing Fan, Zhipeng Lou, Weichen Wang and Mengxin Yu.  \n
+/Journal of the American Statistical Association/, minor revision, 2023. 
+
+- [https://arxiv.org/abs/2302.12111 Communication-Efficient Distributed Estimation and Inference for Cox's Model] \n
+Jianqing Fan, Pierre Bayle and Zhipeng Lou. \n
+/Journal of the American Statistical Association/, major revision, 2023. 
+
+- [https://arxiv.org/abs/2308.02918 Spectral Ranking Inferences based on General Multiway Comparisons] \n
+Jianqing Fan, Zhipeng Lou, Weichen Wang and Mengxin Yu. \n
+/Operations Research/, under review, 2023. 
+
+- Asymptotic Theory for Constant Step Size Stochastic Gradient Descent \n
+Jiaqi Li, Zhipeng Lou, Stefan Richter and Wei Biao Wu. \n
+/IEEE Transactions on Information Theory/, under review, 2023.
+
+- [http://www.springer.com/us/book/9783319182834 Hypothesis Testing for High-Dimensional Data.] \n
+Wei Biao Wu, Zhipeng Lou and Yuefeng Han. \n
+/Handbook of Big Data Analytics/, Springer, 2018.
+
+- Simultaneous Inference for Mean Curves of Functional and Longitudinal Data: A Unified Theory. \n
+Zhipeng Lou and Wei Biao Wu. \n
+/Statistica Sinica/, major revision, 2022.
+
+- Simultaneous Inference of Quantiles in High Dimensions. \n
+Zhipeng Lou and Wei Biao Wu. \n
+/Sankhya B/, invited session, 2023. 
+
+- Portmanteau Test for High Dimensional White Noises. \n
+Zhipeng Lou and Wei Biao Wu. \n
+/Bernoulli/, under review, 2023. 
+
+
+
+
